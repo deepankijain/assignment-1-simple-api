@@ -1,0 +1,14 @@
+{
+  "name": "assignment-1-simple-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepanki Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
